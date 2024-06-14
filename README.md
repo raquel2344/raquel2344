@@ -1,6 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Monica R. Joya ======================================================================================================================================  Student at Houston Community College ------------------------------------  I am currently learning Artificial Intelligent at HCC and really enjoying the topic of Machine Learning. My student and career goal is to implement my education in ML into a working environment one day. Thank you, Universe, for this opportunity.  * 🌍  I'm based in Houston, TX * ✉️  You can contact me at [raquel2344@gmail.com](mailto:raquel2344@gmail.com) * 🧠  I'm learning Linux, Machine Learning and Computer Vision in Ai
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Monica R. Joya   
 
- ### Socials  <p align="left"> <a href="https://www.github.com/raquel2344" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+Student at Houston Community College 
+------------------------------------  
+
+I am currently learning Artificial Intelligent at HCC and really enjoying the topic of Machine Learning. My student and career goal is to implement my education in ML into a working environment one day. Thank you, Universe, for this opportunity.  
+* 🌍  I'm based in Houston, TX
+* ✉️  You can contact me at [raquel2344@gmail.com](mailto:raquel2344@gmail.com)
+* 🧠  I'm learning Linux, Machine Learning and Computer Vision in Ai
+
+ ### Socials  
+ 
+ <p align="left"> <a href="https://www.github.com/raquel2344" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
