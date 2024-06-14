@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student at Houston Community College 
 ------------------------------------  
 
-I am currently learning Artificial Intelligent at HCC and really enjoying the topic of Machine Learning. My student and career goal is to implement my education in ML into a working environment one day.  Your support in contuing my education in greatly appreciated.  Thank you, Universe, for this opportunity.
+I am currently learning Artificial Intelligent at HCC and really enjoying the topic of Machine Learning. My student and career goal is to implement my education in ML into a working environment one day.  Your support in continuing my education in greatly appreciated.  Thank you, Universe, for this opportunity.
 
 * 🌍  I'm based in Houston, TX
 * ✉️  You can contact me at [raquel2344@gmail.com](mailto:raquel2344@gmail.com)
