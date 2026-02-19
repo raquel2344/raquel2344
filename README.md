@@ -7,7 +7,7 @@ I am currently learning Artificial Intelligent at HCC and really enjoying the to
 
 * 🌍  I'm based in Houston, TX
 * ✉️  You can contact me at [raquel2344@gmail.com](mailto:raquel2344@gmail.com)
-* 🧠  I'm currently learning Linux, Machine Learning and Computer Vision in Ai this summer 2024
+* 🧠  I'm currently learning IIOT & Edge, Ai in Financa/Healthcare/Robotics this Fall 2026
 
  ### Socials  
  
