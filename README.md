@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Monica R. Joya   
 
-Student at Houston Community College 
+Student at Houston City College 
 ------------------------------------  
 
 I am currently learning Artificial Intelligent at HCC and really enjoying the topic of Machine Learning. My student and career goal is to implement my education in ML into a working environment one day.  Your support in continuing my education is greatly appreciated.  Thank you, Universe, for this opportunity.
