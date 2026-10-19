@@ -8,7 +8,7 @@ I am currently learning Artificial Intelligent at HCC and really enjoying the to
 * 🌍  I'm based in Houston, TX
 * ✉️  You can contact me at [raquel2344@gmail.com](mailto:raquel2344@gmail.com)
 * 🧠  I'm currently learning how to build Digital Twins this Fall 2026
-* 🐜  Studying for my Texas structural pest control technician license (TDA) while working at my family's company, Joya Pest Control
+* 🐜  Studying for my Texas structural pest control technician license (TDA) while working at my family's pest control company. I built [a gamified study tool](https://claude.ai/artifact/Gi2tyxsweBhTpXrv9fbRpU) to get through the manual. It may grow into our company's interactive training platform for new hires.
 
  ### Socials  
  
